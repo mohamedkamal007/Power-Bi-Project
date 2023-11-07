@@ -1,5 +1,5 @@
 # Power-Bi-Project
-Retailing data analysis
-This data for a real market
-loading data from different files to power bi
-using power query to clean data
+Retailing data analysis project,
+This data for a real market,
+operations made on data are loading data from different files to power bi
+and using power query to clean data
